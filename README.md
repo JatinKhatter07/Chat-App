@@ -1,10 +1,10 @@
-<h1>....................................... Chat ME App................................................................. </h1>
+<h1>........................... Chat ME App.................................................... </h1>
 
 <img src="https://cdn.dribbble.com/userupload/2816389/file/original-f627dc439b3ed7f2c88e9dd61c2b2cc3.png?compress=1&resize=640x480&vertical=top"/> 
 
 <h2>You can create your chat applications like WhatsApp clone using React . This is a very good intermediate-level React project. Here in this application, users can get access by creating a new id. Where another user can send a text to the former user by adding his /her id through new contacts.</h2>
 
-<h1>........................................ Tech Stack ..................................................................</h1>
+<h1>........................... Tech Stack .....................................................</h1>
  
 
   <p>
